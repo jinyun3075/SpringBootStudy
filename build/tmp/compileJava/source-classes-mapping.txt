@@ -1,11 +1,25 @@
+com/study/domain/posts/PostsRepository.java
+ com.study.domain.posts.PostsRepository
+com/study/web/dto/PostsUpdateRequestDto.java
+ com.study.web.dto.PostsUpdateRequestDto
+ com.study.web.dto.PostsUpdateRequestDto$PostsUpdateRequestDtoBuilder
+com/study/web/dto/HelloResponseDto.java
+ com.study.web.dto.HelloResponseDto
+com/study/web/HelloController.java
+ com.study.web.HelloController
+com/study/web/dto/PostsResponseDto.java
+ com.study.web.dto.PostsResponseDto
 com/study/Application.java
  com.study.Application
 com/study/domain/posts/Posts.java
  com.study.domain.posts.Posts
  com.study.domain.posts.Posts$PostsBuilder
-com/study/web/HelloController.java
- com.study.web.HelloController
-com/study/domain/posts/PostsRepository.java
- com.study.domain.posts.PostsRepository
-com/study/web/dto/HelloResponseDto.java
- com.study.web.dto.HelloResponseDto
+com/study/web/PostsApiController.java
+ com.study.web.PostsApiController
+com/study/service/posts/PostsService.java
+ com.study.service.posts.PostsService
+com/study/domain/BaseTimeEntity.java
+ com.study.domain.BaseTimeEntity
+com/study/web/dto/PostsSaveRequestDto.java
+ com.study.web.dto.PostsSaveRequestDto
+ com.study.web.dto.PostsSaveRequestDto$PostsSaveRequestDtoBuilder
