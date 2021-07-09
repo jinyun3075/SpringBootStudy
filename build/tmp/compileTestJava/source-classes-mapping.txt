@@ -1,3 +1,5 @@
+com/study/web/IndexControllerTest.java
+ com.study.web.IndexControllerTest
 com/study/web/PostsApiControllerTest.java
  com.study.web.PostsApiControllerTest
 com/study/web/dto/HelloResponseDtoTest.java
